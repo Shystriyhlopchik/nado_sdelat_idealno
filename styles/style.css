@@ -64,8 +64,8 @@ h1 {
     box-shadow: 0 14px #000;
 
     position: absolute;
-    top: 20%;
-    right: 0;
+    top: 180px;
+    right: 20px;
 }
 
 body::before {
