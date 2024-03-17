@@ -34,6 +34,7 @@ h1 {
     text-align: center;
     letter-spacing: 3.5px;
     text-transform: uppercase;
+    color: #000;
 }
 
 .page__heading:hover {
@@ -56,11 +57,11 @@ h1 {
     display: block;
     padding: 36px 44px;
     white-space: pre;
-    border: 1px solid black;
+    border: 2px solid #000;
     border-radius: 20px;
     background-color: white;
     text-align: left;
-    color: black;
+    color: #4C4C4C;
     box-shadow: 0 14px #000;
 
     position: absolute;
