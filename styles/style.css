@@ -26,7 +26,6 @@ h1 {
 .page__heading {
     z-index: 2;
     max-width: 739px;
-    max-height: 408px;
     font-family: Raleway, "Times New Roman", serif;
     font-size: 116px;
     line-height: 136px;
@@ -39,6 +38,7 @@ h1 {
 
 .page__heading:hover {
     color: rgba(76, 76, 76, 1);
+    cursor: default;
 }
 
 .page__heading::after {
